@@ -9,4 +9,8 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 In this project you will detect lane lines in images using Python and OpenCV.  OpenCV means "Open-Source Computer Vision", which is a package that has many useful tools for analyzing images.  
 
 1. Describe the pipeline
-»Ò¶È»¯£¬¸ßË¹ÂË²¨£¬cannyËã×Ó»ñÈ¡±ßÔµ£¨Éè¶¨¸ßãĞÖµ²¶×½±ßÔµ£¬µÍãĞÖµÓÃÓÚÁ¬½Ó²¹³ä±ßÔµ£©£¬ÔÙ»ùÓÚ¸ĞĞËÈ¤ÇøÓòÌáÈ¡±ßÔµ£¬ÔÚÍ¨¹ıhough±ä»»£¨Éè¶¨×î¶ÌÏß¶ÎºÍÏß¶Î¼ä¸ô£¬½Ç¶ÈµÈ£©×¼È·×¥È¡±ßÔµÏß¶Î£¬´Ó¶ø»æÖÆ³µµÀÏß¡£
+ç°åº¦åŒ–ï¼Œé«˜æ–¯æ»¤æ³¢ï¼Œcannyç®—å­è·å–è¾¹ç¼˜ï¼ˆè®¾å®šé«˜é˜ˆå€¼æ•æ‰è¾¹ç¼˜ï¼Œä½é˜ˆå€¼ç”¨äºè¿æ¥è¡¥å……è¾¹ç¼˜ï¼‰ï¼Œå†åŸºäºæ„Ÿå…´è¶£åŒºåŸŸæå–è¾¹ç¼˜ï¼Œåœ¨é€šè¿‡houghå˜æ¢ï¼ˆè®¾å®šæœ€çŸ­çº¿æ®µå’Œçº¿æ®µé—´éš”ï¼Œè§’åº¦ç­‰ï¼‰å‡†ç¡®æŠ“å–è¾¹ç¼˜çº¿æ®µï¼Œä»è€Œç»˜åˆ¶è½¦é“çº¿ã€‚
+
+more details see below:  
+è½¦é“çº¿æ£€æµ‹-ä»å•è½¦é“åˆ°å¤šè½¦é“çš„è½¦é“çº¿æ£€æµ‹ï¼ˆä¸€ï¼‰  
+https://blog.csdn.net/qq_42258099/article/details/94661957
